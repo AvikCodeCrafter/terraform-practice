@@ -4,6 +4,11 @@
 Built using **Terraform (Infrastructure as Code)** with a strong focus on **core AWS networking fundamentals**.
 
 ---
+## Infrastructure Achitecture Flow 
+
+![ERD Diagram](/infra_flow_diagram.png)
+
+---
 
 ## 📌 Overview
 
